@@ -7,6 +7,6 @@ Following is code for Snakes and Ladder Game using a random package present in P
 
 3.Major work of random function in this code is same as that of a dice i.e. to genrate a random number as a rolled out number.
  
-4.The idea to use 'i' is just to introduce truns one after other i.e. when we use i=1 the Player 1 will play and i=2 Player 2 will have his turn.
+4.The idea to use 'i' is just to introduce turns one after other i.e. when we use i=1 the Player 1 will play and i=2 Player 2 will have his turn.
 
 
